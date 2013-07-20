@@ -1,0 +1,12 @@
+name "baxter"
+
+depends "apache2"
+depends "apt"
+depends "build-essential"
+depends "chef_handler"
+depends "networking_basic"
+depends "openssl"
+depends "php"
+depends "windows"
+depends "xdebug"
+depends "xml"
